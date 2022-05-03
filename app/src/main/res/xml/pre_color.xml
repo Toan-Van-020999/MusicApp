@@ -1,0 +1,20 @@
+<androidx.preference.PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <PreferenceCategory android:title="Color">
+        <ListPreference
+            android:dialogTitle="Choose action bar color"
+            android:entries="@array/name_color"
+            android:entryValues="@array/code_color"
+            android:icon="@color/colorButton"
+            android:key="change_action_bar_color"
+            android:title="Color action bar"
+            app:summary="Color" />
+        <SwitchPreference
+            android:key="pref_key_switch"
+            android:title="Colored navigation bar"
+            android:summaryOff="Off"
+            app:summaryOn="On"
+            />
+    </PreferenceCategory>
+</androidx.preference.PreferenceScreen>
+

@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">ListenToMusic</string>
+    <string name="music_name">Music Name</string>
+    <string name="singer">Singer</string>
+    <string name="album">Album</string>
+    <string name="artist">Artist</string>
+    <string name="follow_us">Follow Us</string>
+    <string name="setting">Setting</string>
+    <string name="login">Login</string>
+    <string name="playlist">Playlist</string>
+    <string name="favoriteSong">Favorite Song</string>
+    <string name="music_artist">Music Artist</string>
+    <string name="_00_00">00:00</string>
+    <string name="other">Other</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="album_name">album name</string>
+    <string name="music_player">Music Player</string>
+    <string name="now_playing">Now playing</string>
+    <string name="home">Home</string>
+    <string name="there_are_no_songs_on_your_device_yet">There are no songs on your device yet</string>
+    <string name="suggest_song">Suggest Song</string>
+    <string name="suggest_album">Suggest Album</string>
+    <string name="search">Search</string>
+    <string name="facebook">Facebook</string>
+    <string name="google">Google</string>
+    <string name="username">Username</string>
+    <string name="login_user">Login User</string>
+    <string-array name="name_color">
+        <item>Yellow</item>
+        <item>Blue</item>
+        <item>Green</item>
+        <item>Pink</item>
+        <item>light blue</item>
+        <item>Orange</item>
+
+    </string-array>
+
+    <string-array name="code_color">
+        <item>#CDDC39</item>
+        <item>#3F51B5</item>
+        <item>#4CAF50</item>
+        <item>#E91E63</item>
+        <item>#00BCD4</item>
+        <item>#FF5722</item>
+
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="create_a_new_account">Create a new account</string>
+    <string name="don_t_have_account">Don\'t have account?</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+
+</resources>
